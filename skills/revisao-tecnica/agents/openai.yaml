@@ -1,0 +1,7 @@
+interface:
+  display_name: "Revisão técnica"
+  short_description: "Revisa a redação de textos técnicos e acadêmicos para aprovação por grupo"
+  default_prompt: "Use $revisao-tecnica. Revise a redação deste documento e me mostre o relatório por grupo antes de alterar qualquer trecho."
+
+policy:
+  allow_implicit_invocation: false
